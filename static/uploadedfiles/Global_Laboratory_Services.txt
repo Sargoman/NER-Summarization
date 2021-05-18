@@ -1,0 +1,725 @@
+MASTER SERVICES AGREEMENT
+THIS MASTER SERVICES AGREEMENT (this “Agreement”) is entered into as of
+the 30th day of March, 2011 by and between Cognizant, a Delaware corporation
+(“Client”), and Global Laboratory Services, Inc., a Virginia corporation (“GLS”).
+WITNESSETH
+WHEREAS, GLS is an independent laboratory and inspection company that offers
+various laboratory testing, inspection, analytical evaluation, reporting, research and development
+and other scientific and regulatory consulting services (the “Services”).
+WHEREAS, Client wishes to engage GLS to provide certain Services with respect to
+samples provided to GLS by or on behalf of Client and GLS is agreeable to furnishing such
+Services to Client as further detailed below and on the attached Statements of Work incorporated
+herein and pursuant to the terms hereinafter and thereinafter described.
+NOW THEREFORE, in consideration of the foregoing premises, it is hereby mutually
+agreed by and between the parties hereto as follows:
+1.
+
+Services; Appointment of Representatives.
+
+(a)
+Subject to the terms and conditions in this Agreement, the Services to be
+performed hereunder will be as specified in one or more (i) Sample Submission Forms, a form of
+which is attached hereto as Exhibit A, and as such form is submitted by Client to GLS and
+agreed to and executed by representatives of both parties (each a “Sample Submission Form”),
+and/or (ii) Consulting Services Forms, a form of which is attached hereto as Exhibit B, and as
+such form is submitted by GLS to Client and agreed to and executed by representatives of both
+parties (each, a “Consulting Services Form”) (each Sample Submission Form and each
+Consulting Services Form are also referred to herein as a “Statement of Work” or “SOW”). Each
+SOW will be attached to this Agreement and incorporated herein upon execution of same by
+both parties in accordance herewith.
+(b)
+Changes in the scope of the Services (but not changes in the manner of
+performing the Services) being performed under this Agreement and each applicable SOW will
+be made only if agreed to in writing in the form of an amendment to such SOW executed by
+authorized representatives of both parties. In the event of any inconsistency between the
+provisions of any SOW and the provisions of this Agreement, the provisions of this Agreement
+will control.
+(c)
+In connection with each SOW, each of Client and GLS will appoint a
+designee as the Client representative and GLS representative, respectively, which person shall be
+the primary point of contact under such SOW. The representatives will interface regarding the
+delivery of and performance of Services arising under the applicable SOW.
+
+2.
+
+Term; Termination.
+
+(a)
+This Agreement will commence on March 30th, 2011 and continue for an
+initial term of 9 years, and be automatically renewed for successive one-year terms upon the
+same terms and conditions as set forth herein unless either party gives the other party at least
+sixty (60) days’ written notice of its intent not to renew the term hereof. In addition, this
+Agreement may be terminated by either party for any reason upon ninety (90) days’ written
+notice to the other party. Further, either party may terminate this Agreement, immediately,
+without advance notice, (i) in the event of a material breach of this Agreement by the other party,
+which breach is not cured within thirty (30) days after such breaching party’s receipt of notice of
+such breach or (ii) if the other party becomes insolvent or seeks protection under any bankruptcy,
+receivership, trust deed, creditors arrangement, composition or comparable proceeding, or if any
+such proceeding is instituted against the other party (and such proceeding is not dismissed within
+ninety (90) days). Upon the expiration or termination of this Agreement, Client will pay GLS all
+fees for Services earned as of and through the effective date of expiration or termination and will
+also pay and reimburse GLS for all expenses incurred prior to and through the effective date of
+expiration or termination and all non-cancelable commitments that shall have been pre-approved
+by Client.
+(b)
+In addition, the parties may terminate one or more SOWs, without
+terminating or effecting this Agreement or other SOWs under this Agreement, only upon the
+same terms and pursuant to the same procedures set forth above in Section 2(a) or as otherwise
+specified in the SOW at issue. Upon the expiration or termination of one or more SOWs, Client
+will pay GLS all fees for Services earned as of and through the effective date of expiration or
+termination under the SOW(s) and will also pay and reimburse GLS for all expenses incurred
+prior to and through the effective date of expiration or termination under, and all non-cancelable
+commitments that shall have been pre-approved by Client in connection with, the applicable
+SOW(s).
+3.
+
+Fees.
+
+(a)
+Fees and other charges for the Services will be as specified in Exhibit C
+attached hereto, as such Exhibit C may be amended by GLS from time to time, or in the
+applicable Consulting Services Form as provided in Section 9(a) below, and will be invoiced by
+GLS to Client. GLS will submit invoices to Client on a regular basis and will send a final
+invoice to Client upon completion of the Services set forth in a SOW. Unless otherwise
+specified in a SOW, payment for the amount invoiced will be due upon presentation of the
+applicable invoice and all undisputed amounts will be paid within thirty (30) days of the date of
+invoice.
+(b)
+If there is a dispute regarding an invoice, the issue will first be addressed
+by email, a meeting or telephone conference, within thirty (30) days after the date of invoice,
+between the representatives representing each party for the applicable project, and the parties
+agree to cooperate in good faith to attempt to resolve the dispute. Payment of all amounts due, if
+any, upon resolution of such dispute will be made within thirty (30) days after resolution of such
+dispute. Client will continue to pay GLS for all Services set forth in a SOW except those
+disputed in good faith.
+
+2
+
+(c)
+A one percent (1%) per month (12% per annum) service charge will be
+added to all undisputed amounts remaining unpaid after the date on which they were due to GLS.
+A $40.00 charge will apply to all returned checks.
+4.
+
+Samples.
+
+(a)
+Sample Requirements. Samples delivered to GLS will be clearly identified
+with all information deemed reasonably necessary by GLS, examples of which are set out in
+Exhibit A, and as submitted by Client to GLS and agreed to and executed by representatives of
+both parties. For tobacco samples, unless otherwise arranged with and approved by GLS in
+writing, Client must provide GLS with at least 300 grams of the representative tobacco sample
+that has not been ground. Notwithstanding anything herein to the contrary, Client acknowledges
+and agrees that, if Client provides GLS with a sample that has been ground (whether with the
+approval of GLS or otherwise): (i) the Services performed with respect to such sample, as well as
+the results and Work Product (as defined below) derived therefrom, may be compromised; (ii)
+GLS will not be responsible or liable in any way for any Services, results or Work Product so
+compromised; and (iii) Client will not be entitled to any of the remedies set forth in Section 6(a)
+or 13(a) below or elsewhere in this Agreement in connection with such Services, results and
+Work Product.
+(b)
+Delivery of Samples. Unless otherwise arranged with and approved by
+GLS in writing, Client will deliver, or cause to be delivered, each sample to GLS’ testing
+facilities. Within five (5) business days of delivery to GLS, GLS will notify Client of any
+missing samples or samples that are received in a damaged and/or contaminated condition or any
+other discrepancy. Upon such notification, Client will provide GLS with additional instructions
+regarding such missing, damaged and/or contaminated samples. GLS will have the right to refuse
+acceptance of, or to return at Client’s expense, any sample that GLS deems, in its sole discretion,
+to present a hazard or an unreasonable risk with respect to its handling and/or analysis.
+Notwithstanding anything to the contrary herein, Client will retain the risk of loss or damage to
+all samples during shipment to GLS.
+(c)
+
+Storage and Retention of Samples.
+
+(i)
+While in GLS’ control or possession and while not
+undergoing testing, GLS will store all samples in accordance with GLS’ policies
+in effect from time to time, including, once GLS is qualified, current good
+manufacturing practices (“cGMP”), unless special storage procedures are agreed
+to by the parties in the applicable Sample Submission Form, in which case, GLS
+will comply with such procedures. Notwithstanding the foregoing, GLS will not
+be liable for any loss or theft of any samples.
+(ii)
+GLS will retain all samples following completion of the
+relevant Services for at least seven (7) days depending on the nature of the
+relevant Services. If Client desires for GLS to retain any samples for a longer
+period of time, such longer period of time must be agreed to by the parties and set
+forth in the applicable Sample Submission Form. After the retention time set
+forth above has expired, GLS will properly dispose of the sample. If so agreed to
+
+3
+
+by the parties and set forth in the applicable Sample Submission Form, GLS will
+return non-hazardous samples to Client at Client’s expense.
+5.
+
+Performance of Services.
+
+(a)
+GLS will perform the Services in a manner consistent with that degree of
+care, skill and diligence as is ordinarily exercised by a professional laboratory testing contractor
+under similar conditions and circumstances, and each individual whom GLS intends to engage to
+perform the Services will possess the qualifications, licenses, skills and experience needed to
+perform such Services.
+(b)
+
+In performing the Services:
+
+(i)
+GLS will be responsible for the professional quality,
+technical accuracy, completeness and coordination of all tests, analyses and
+reports performed, conducted or prepared by or on behalf of GLS as part of the
+Services;
+(ii)
+GLS will use reasonable commercial efforts in a diligent
+manner to perform the Services on a timely basis in accordance with the timing
+agreed to by the parties in the applicable SOW, if any;
+(iii)
+GLS will have sole control and discretion over the means,
+methods, techniques, equipment, sequences and procedures its uses to perform the
+Services, without having to confer with, or obtain the consent or approval of,
+Client; and
+(iv)
+If GLS implements any material changes in the manner in
+which it performs the Services, whether as required by changes in applicable law,
+rule or regulation or otherwise, GLS will notify Client of such changes within a
+commercially reasonable period of time or as required by applicable law, but will
+not be required to confer with, or obtain the consent or approval of, Client in
+connection with implementing such changes.
+(c)
+GLS will comply with all federal, state and local laws, rules and
+regulations applicable to the performance of its obligations under this Agreement.
+6.
+
+Retesting and Correction of Services and Work Product.
+
+(a)
+Client may request that GLS (i) re-perform any Services completed,
+and/or review the substance and accuracy of any related Work Product produced, by or on behalf
+of GLS hereunder or (ii) correct any inaccuracies or errors in any such Services and/or Work
+Product (collectively, “Additional Work”); provided, that Client shall have submitted such
+request to GLS in writing (which writing will set forth in reasonable detail the basis of Client’s
+request) within seven (7) days after the delivery by GLS to Client of a final report with respect to
+the relevant Services, unless otherwise agreed to by the parties in writing. If Client submits any
+such written request to GLS, GLS will, within a commercially reasonable period of time,
+perform the Additional Work requested to the extent deemed necessary, advisable or appropriate
+
+4
+
+by GLS, in its sole discretion. If, upon completing such Additional Work, GLS confirms its
+original results, then Client will be charged for the Additional Work performed by GLS as
+provided in Section 3(a). However, Client will not be charged for any Additional Work
+performed by GLS to correct any inaccuracies, or errors made by GLS, in the Services and/or
+Work Product originally performed or produced by GLS. Furthermore, notwithstanding anything
+herein to the contrary, GLS will not be liable for any consequential, incidental, exemplary,
+indirect, punitive or special damages, including, without limitation, loss of profits or loss of
+business opportunities.
+(b)
+Notwithstanding the provisions of Section 6(a), Client hereby
+acknowledges and agrees that the re-testing of samples by GLS after the 7-day period provided
+in Section 6(a) may produce results different from those originally observed by or on behalf of
+GLS.
+7.
+
+Regulatory Changes; Regulatory Investigations and Inspections.
+
+(a)
+Regulatory Changes. In the event any changes or additions to the laws,
+rules or regulations of the U.S. Food and Drug Administration or any other regulatory authority
+(each, a “Regulatory Authority”) (i) require that GLS change the manner in which it performs the
+Services and/or (ii) impose additional expenses, charges, fees and costs applicable to GLS and/or
+the Services, Client will promptly reimburse GLS for any and all incremental costs incurred by
+GLS under this Agreement and the applicable SOW(s) as a result thereof.
+(b)
+
+Regulatory Investigations and Inspections.
+
+(i)
+In the event a Regulatory Authority notifies GLS of its
+intent to undertake an investigation and/or inspection (each, a “Regulatory
+Investigation”) of (1) the Services being performed under this Agreement and/or
+(2) the samples which are the subject of such Services and in the possession of
+GLS or its subcontractors, GLS will, to the extent permitted by applicable law,
+notify Client thereof within a commercially reasonable period of time or as
+otherwise required by applicable law.
+(ii)
+If, as part of, in connection with, or as a result of, any such
+Regulatory Investigation:
+(1)
+GLS is requested to disclose any
+Confidential Information to the Regulatory Authority or its
+designees, then GLS will be permitted to do so as provided in
+Section 10(d) below and will not be liable for any such disclosure;
+or
+(2)
+GLS is requested to participate or cooperate
+in, or in any way facilitate, such Regulatory Investigation, then (x)
+GLS will be permitted to do so in the manner it deems necessary,
+advisable or appropriate, in its sole discretion, without having to
+confer with, or obtain the consent or approval of, Client, and (y)
+Client will promptly reimburse GLS for any and all time and
+
+5
+
+resources expended, and any and all costs, expenses and other
+amounts incurred, by GLS in doing so.
+(iii)
+If any part of any such Regulatory Investigation is to be
+undertaken at any of GLS’ or any of its subcontractors’ facilities, Client will not
+be permitted to be present at such facilities during such part of the Regulatory
+Investigation, unless, and then only to the extent, mandated by applicable law.
+(iv)
+Upon completion of each Regulatory Investigation, GLS
+will provide Client with a copy of any report of the Regulatory Authority’s
+findings made available to GLS by the relevant Regulatory Authority, but only to
+the extent (1) such report relates to Services performed under this Agreement or
+any SOW, and (2) permitted by applicable law.
+8.
+
+Accounting Records; Reviews.
+
+(a)
+GLS will keep and maintain complete and accurate records, books of
+account and other data (but excluding any and all samples which are the subject of the Services
+(whether tested in whole or in part)) necessary for the proper administration of this Agreement.
+GLS will keep and maintain such documentation for three (3) years after the expiration or
+termination of this Agreement.
+(b)
+Client will have the right, at its sole expense, upon sixty (60) days’ prior
+written notice to GLS, to review or to have an outside auditor review GLS’ books and records
+relating to the Services performed by GLS under this Agreement, including compliance with
+ISO/IEC 17025, and, once GLS is qualified, cGMP; provided, however, that, unless otherwise
+agreed to by GLS: (i) any outside auditor engaged by Client to perform any such review must
+first sign a Confidentiality Agreement with, and in a form reasonably satisfactory to, GLS, and
+Client will be responsible and liable for all acts, omissions and breaches of such outside auditor;
+(ii) Client will not be entitled to more than 1 such review (whether performed by Client or an
+outside auditor) in any 12-month period during the term of this Agreement; and (iii) neither
+Client nor its outside auditor will have the right (1) to review GLS’ financial records, including,
+but not limited to, any information concerning GLS’ costs or profit margins related to any
+Service provided to Client hereunder or any SOW, (2) to witness the services provided by GLS
+for its other customers or (3) to review GLS’ records related to the performance of services for
+GLS’ other customers.
+9.
+
+Consulting Services.
+
+(a)
+During the term of this Agreement, Client may request that GLS provide
+to Client certain consulting services related to product sample testing, product regulatory
+compliance or other matters. To the extent the parties agree that GLS is to provide any such
+consulting services, such consulting services and the fees and other charges for such consulting
+services will be specified in the applicable Consulting Services Form.
+(b)
+Client hereby acknowledges and agrees that GLS shall not be responsible
+or held liable in any manner whatsoever for (i) Client’s use of, or any action taken by or on
+behalf of Client in reliance upon or in response to, any recommendations, guidance or other
+
+6
+
+information provided or made available to Client by GLS as part of the consulting services
+agreed to and provided pursuant to any Consulting Services Form, or (ii) any after effect
+resulting from such use or action by or on behalf of Client.
+10.
+
+Confidential Information.
+
+(a)
+For purposes of this Agreement, “Confidential Information” means all
+information or items (including information, data and materials relating to current or prospective
+products and processes) made available (whether intentionally or otherwise) to a party or its
+affiliates or subcontractors, or its or its affiliates’ or its subconractors’ employees, agents and
+other representatives, by or on behalf of the other party and relating to the business, operations,
+affairs, technologies, plans and strategies of such other party, whether observed or provided
+orally, in written, graphic or electronic form, or in the form of samples, and whether or not
+marked, labeled or otherwise identified as “confidential,” “secret” or “proprietary” (it being
+acknowledged and agreed that the existence and terms of this Agreement will be considered to
+be Confidential Information as to both parties).
+(b)
+Each party hereby agrees that, with respect to Confidential Information (as
+defined below) of the disclosing party, the receiving party will: (i) maintain such Confidential
+Information in confidence using the same degree of care the receiving party uses to prevent
+disclosure, dissemination or publication of its own confidential, proprietary or secret
+information, data, materials and items (but in no event less than reasonable care); (ii) not disclose
+such Confidential Information publicly or to any third party in an unauthorized manner; (iii) use
+such Confidential Information only for purposes of its obligations under this Agreement, and for
+no other purpose; and (iv) disclose such Confidential Information only to its affiliates, its
+subcontractors and its, its affiliates’ and its subcontractors’ respective employees, agents and
+other representatives, who have a “need-to-know” in connection with, and agree to comply with,
+the obligations imposed upon the receiving party by this Agreement (with the receiving party
+bearing ultimate responsibility for any breach by such persons or entities of those obligations by
+a party to the other party).
+(c)
+Notwithstanding the foregoing, “Confidential Information” does not
+include any information or items that: (i) were generally available to the public, or otherwise part
+of the public domain, when received by the receiving party; (ii) become generally available to
+the public, or otherwise part of the public domain, other than through breach of this Agreement;
+(iii) can be demonstrated by the receiving party to have already been in its possession, or
+otherwise known by it, prior to the time of receipt from the disclosing party; (iv) are received by
+the receiving party from a third party that is (1) in lawful possession thereof and (2) under no
+confidentiality obligation to the disclosing party; or (v) are independently developed by the
+receiving party without use of the Confidential Information of the disclosing party.
+(d)
+If a party receives a request from a Regulatory Authority or by judicial
+process to disclose Confidential Information of the disclosing party then the receiving party (i)
+will use reasonable efforts to promptly give the disclosing party notice of such required
+disclosure in order to afford the disclosing party adequate opportunity to seek a protective order
+or other legal remedy to prevent the disclosure, (ii) will reasonably cooperate with the disclosing
+party’s efforts to secure such a protective order or legal remedy, and (iii), if efforts seeking such
+
+7
+
+order or remedy are unsuccessful, will take reasonable steps to seek confidential treatment of
+such information or items to be disclosed.
+(e)
+Subject to the provisions of Section 10(c) above and Section 10(f) below,
+and Client having paid GLS in full for all Services under the relevant SOW, Client will own and
+have all right and title in all work product related to such Services and specifically produced or
+generated for, and delivered to, Client by GLS under this Agreement during the term of this
+Agreement (collectively, “Work Product”); provided that such Work Product is (i) based solely
+on Confidential Information of Client and/or (ii) developed directly and solely as a result of
+GLS’ performance of the Services. To the extent possible, all Work Product shall be considered
+a work made for hire for Client within the meaning of Title 17 of the United States Code (the
+Copyright Act); provided, however, that, notwithstanding anything to the contrary in this
+Agreement, GLS reserves the right to utilize the Confidential Information of Client and Work
+Product for the Services and otherwise internally for the limited purposes of the conduct of its
+business, including training, research and education, and to use Confidential Information of
+Client and Work Product, in the aggregate, to determine trends in the industry for the express and
+limited purpose of establishing the best practices for audits, inspections and testing in the
+industry, so long as no use of the Confidential Information of Client or Work Product, in the
+aggregate, for this purpose will allow the identification of Client or a third party subject to the
+Services or disclosure of particular Client-identifiable Confidential Information.
+(f)
+Further, the “Confidential Information” and “Work Product” which will
+belong to Client, to the extent provided in this Section 10, will not include any Background
+Technology or Preliminary Data and Materials of GLS, which at all times will remain the sole
+and exclusive property of GLS. For purposes of this Agreement: (i) “Background Technology”
+means all intellectual property and other proprietary rights in and to: (1) all specifications,
+checklists, audit tools, scoring criteria, risk profiling tools, protocols, methods (analytical, testing
+and otherwise), ideas, know-how, concepts, plans, creations, work product, reports, writings,
+compilations, trade secrets, data, databases, software, files, programs, writings, models and
+devices, patents, processes (including, but not limited to, polymerase chain reaction and real-time
+polymerase chain reaction processes and technologies), policy developments, documents,
+equipment and other materials owned, possessed, developed or acquired by, or licensed or
+sublicensed to, GLS prior to the later of the date of this Agreement or disclosure to Client; and
+(2) all general additions, accretions, improvements and enhancements to the same which are
+owned, possessed, developed or acquired by, or licensed or sublicensed to, GLS during the term
+of this Agreement that are not developed or acquired expressly and exclusively for Client; and
+(ii) “Preliminary Data and Materials” means all laboratory test data, calculations, estimates,
+reports and other electronic or written communications describing the results of any Services (or
+element thereof) and any memoranda and status summaries prepared by or on behalf of
+Contractor in connection with the Services performed hereunder (excluding any Work Product).
+(g)
+Client hereby acknowledges and agrees that it may not and it will not
+make any Work Product available for external publication, or provide copies of any Work
+Product to any third parties without obtaining GLS’ prior written consent, except that no prior
+written consent will be required if disclosure of any Work Product is required by law or pursuant
+to a valid and lawful subpoena or order issued by a court or Regulatory Authority having
+authority to issue such subpoena or order. If Client is served with a lawful subpoena or order to
+
+8
+
+produce Work Product to a court or Regulatory Authority, Client will promptly notify GLS that
+such a subpoena or order has been received and provide a copy thereof to GLS.
+(h)
+Each party hereby acknowledges and agrees that: (i) any unauthorized
+disclosure or use of Confidential Information would cause irreparable harm to the disclosing
+party; (ii) money damages would be inadequate to compensate the disclosing party for such
+harm; and (iii) the breach or threatened breach of this Agreement may entitle the disclosing party
+to obtain specific performance and injunctive relief (and each party agrees that it will not oppose
+the disclosing party’s efforts to obtain such relief), in addition to any other legal remedies that
+may be available. Each party hereby expressly waives any requirement for the disclosing party to
+post a bond in order to obtain an injunction or other equitable relief.
+11.
+
+Representations and Warranties.
+
+(a)
+GLS hereby represents and warrants that it has the power and authority to
+enter into this Agreement, and is duly licensed, authorized and qualified to perform the Services.
+GLS hereby further represents and warrants that the execution of this Agreement and the
+performance of the Services will not, directly or indirectly, contravene, conflict with or result in
+a violation of any agreement, authorization or other obligation of GLS.
+(b)
+Client hereby represents and warrants that it has the power and authority
+to enter into this Agreement and procure the Services. Client hereby further represents and
+warrants that the execution of this Agreement and the performance of the Services will not,
+directly or indirectly, contravene, conflict with or result in a violation of any agreement,
+authorization or other obligation of Client.
+(c)
+EXCEPT TO THE EXTENT OF THE LIMITED WARRANTIES SET
+FORTH IN SECTION 5 AND IN THIS SECTION 11, AND NOTWITHSTANDING ANY
+PROVISION TO THE CONTRARY CONTAINED HEREIN OR IN ANY SOW, REPORT OR
+OTHER STATEMENT OR INSTRUMENT, GLS MAKES NO WARRANTY OR
+GUARANTEE, EXPRESS OR IMPLIED, WITH RESPECT TO THE SERVICES,
+INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE.
+12.
+Limitations on Scope and Use of Work Product. Client hereby acknowledges
+and agrees that:
+(a)
+GLS is neither an insurer nor a guarantor, that GLS does not take the place
+or assume the responsibilities and obligations of Client or any designer, manufacturer, agent,
+buyer, distributor, transportation company or other third party, and that GLS disclaims any and
+all liability in such capacities;
+(b)
+if Client requests GLS to perform certain Services that are required or
+mandated by any Regulatory Authority, then (i) neither the performance of such Services by
+GLS nor any use by Client or any third party of any portion of the sample(s) or Work Product
+related to such Services will imply that GLS is subject to the jurisdiction of such Regulatory
+Authority and (ii) no privity or other relationship will be created between GLS and such
+Regulatory Authority as a result of the performance of such Services;
+
+9
+
+(c)
+any Work Product produced by GLS as part of the Services performed
+hereunder (x) will relate only to those specific samples actually tested by GLS as part of such
+Services and (y), in no way, can be taken or relied upon as being representative of any other
+portion of the lot or batch from which such samples were taken;
+(d)
+GLS assumes no responsibility for the purposes for which Client or any
+third party uses any Work Product; and
+(e)
+Client may not and will not, under any circumstances, hold out or
+represent to any third party that GLS has in anyway whatsoever certified, guaranteed or
+otherwise passed judgment on the efficacy of any results derived from the performance of the
+Services hereunder, except to the extent GLS has certified that it has performed the Services in
+accordance with the provisions of the applicable SOW.
+13.
+
+Indemnification.
+
+(a)
+GLS will indemnify, defend and hold Client and its affiliates and its and
+their respective officers, directors, shareholders, employees, agents and representatives (“Client
+Indemnified Parties”) harmless from and against any and all losses and damages, including, but
+not limited to, any and all fines, penalties, liabilities and obligations (whether known or
+unknown, asserted or unasserted, absolute or contingent, accrued or unaccrued, matured or
+unmatured, determined or determinable, disputed or undisputed, liquidated or unliquidated, or
+due or to become due), including all reasonable fees, costs and expenses (including, without
+limitation, reasonable expenses of investigation and mediation and reasonable attorneys’,
+accountants’ and other professional fees) relating thereto (collectively, “Damages”), which any
+Client Indemnified Party may incur or be liable for as a result of any claim, suit or proceeding or
+threatened claim, suit or proceeding (collectively, “Proceedings”), directly or indirectly, arising
+out of or in any way related to any breach of this Agreement by GLS; provided that, with respect
+to the Services rendered by GLS under this Agreement, Client’s sole remedy shall be as set forth
+in Section 6(a) above.
+(b)
+Client will indemnify, defend and hold GLS and its affiliates and its and
+their respective officers, directors, shareholders, employees, agents and representatives (“GLS
+Indemnified Parties”, and together with the Client Indemnified Parties, the “Indemnified
+Parties”) harmless from and against any and all Damages, which any GLS Indemnified Party
+may incur or be liable for as a result of any Proceeding, directly or indirectly, arising out of or in
+any way related to any (i) breach of this Agreement by Client, (ii) adverse health effects or health
+risks relating to the use of Client’s products, or (iii), to the extent asserted by any third party,
+including, but not limited to, any Regulatory Authority, Services performed by GLS under this
+Agreement at the request of client, provided, that Supplier has performed such Services without
+having breached this Agreement.
+14.
+Damages; Injuries. Client acknowledges that many tests or other procedures
+performed by GLS in connection with the Services may be hazardous and agrees that, except as
+such injury or damage relates to the gross negligence or willful misconduct of GLS, GLS will
+not be liable for any injury or damage to any property, products, employees, agents or other
+representatives of Client or any third party (acting on behalf or at the request of Client) that may
+
+10
+
+occur during, or as a result of, the performance of the Services or any onsite visit at any of GLS’
+or any of its subcontractors’ facilities conducted in connection with this Agreement. In addition,
+Client will indemnify and hold each GLS Indemnified Party harmless from and against any and
+all Damages which such GLS Indemnified Party may incur as a result of any Proceeding, directly
+or indirectly, arising out of or in any way related to such injury or damage.
+15.
+
+Insurance. During the term of this Agreement:
+(a)
+
+GLS hereby agrees to maintain the following insurance coverage:
+
+(i)
+Worker’s Compensation Insurance to the full extent
+required by the laws of the states in which the Services are being performed;
+(ii)
+Commercial General Liability Insurance with a combined
+single limit of liability for bodily injury and property damage of not less than
+$2,000,000; and
+(iii)
+Errors and Omissions insurance with a minimum limit of at
+least $1,000,000 per occurrence and in the aggregate.
+(b)
+Client hereby agrees, in addition to its obligations under Section 14, to
+maintain Worker’s Compensation Insurance and Commercial General Liability Insurance
+sufficient to cover any and all employees, agents or other representatives of Client or any third
+party (acting on behalf or at the request of Client) that will be conducting any onsite visit at any
+of GLS’ or any of its subcontractors’ facilities in connection with this Agreement.
+(c)
+Each party hereby agrees to provide the other party with a certificate of
+insurance of the insurance coverage required hereunder upon the other party’s reasonable
+request.
+16.
+Notices. All notices and other communications given hereunder will be in
+writing. Notices will be effective when delivered, if delivered personally. Otherwise, they will
+be effective when sent to the parties at the addresses or numbers listed below, as follows: (i) on
+the business day delivered (or the next business day following delivery if not delivered on a
+business day) if personally delivered or sent by overnight delivery courier, (ii) the next business
+day after transmission by telefax or other facsimile or electronic means or (iii) three business
+days after mailing if mailed by registered or certified U.S. mail, postage prepaid and return
+receipt requested.
+If to GLS, to:
+Global Laboratory Services, Inc.
+2107 Black Creek Road
+Wilson, North Carolina 27893
+Attention: __________________
+Fax No.: (252) 234-4959
+
+11
+
+If to Client, to:
+Cognizant
+221B Baker street
+Dover, Delaware 56282
+Attention: __________________
+Fax No.: (343) 984-7137
+Any person or entity may change the address or number to which notices are to be delivered to
+him, her or it by giving the other persons or entities named above notice of the change in the
+manner set forth above.
+17.
+Force Majeure. Notwithstanding anything to the contrary in this Agreement,
+GLS will not be liable to Client by reason of any failure in performance of this Agreement if the
+failure arises out of acts of God, acts of Client, acts of governmental authority, fires, strikes,
+labor shortages, riots or war, acts of terrorism or any cause beyond the reasonable control of that
+GLS (each, a “Force Majeure Event”). If any Force Majeure Event delays performance, GLS
+will promptly notify Client thereof and the time allowed for such performance will be extended
+for the length of the Force Majeure Event; provided, however, that GLS will exercise reasonable
+commercial steps to minimize the delay. Notwithstanding the foregoing, if one or more Force
+Majeure Events results in a delay of one-hundred twenty (120) consecutive days in the
+performance of a particular SOW, Client may terminate that SOW without any further liability;
+provided, however, that Client will remain subject to the provisions of Section 2(b).
+18.
+Entire Agreement. This Agreement, including the applicable SOWs attached
+hereto from time to time, constitutes the complete and exclusive statement of the terms,
+conditions and agreements between the parties and supersedes all prior understandings and
+agreements, oral and written, between the parties relating to this Agreement, the Services or
+other matters set forth herein or in the SOWs. This Agreement may not be modified or altered
+except by written instrument duly executed by both parties.
+19.
+Governing Law. The parties agree that this Agreement is entered into and will
+be governed by and constructed in accordance with the laws of the State of North Carolina,
+without regard to its choice of laws principles.
+20.
+
+Dispute Resolution.
+
+(a)
+General. The parties desire to avoid and to settle without litigation any
+controversy, claim or dispute arising out of or relating in any way to this Agreement, including
+the SOWs attached hereto from time to time, (each, a “Dispute”). Accordingly, the parties agree
+to engage in good faith negotiations to resolve any such Dispute and, upon failure to agree, to
+utilize the mediation procedures described in Section 20(c) below as the exclusive method in
+which to resolve any such Dispute.
+(b)
+Informal Resolution. A party to this Agreement that has a Dispute will
+notify the other party of the nature of and basis for the Dispute. Within thirty (30) days after such
+notice is given, the parties, each represented by a senior executive, will meet and confer in good
+faith to attempt to resolve the Dispute described in the notice.
+
+12
+
+(c)
+Mediation. In the event said senior executives are unable to resolve the
+Dispute or agree upon a mechanism to resolve such Dispute during the 30-day period provided
+for in Section 20(b), then the parties will use good faith efforts to resolve such Dispute through a
+non-binding mediation process agreed to by the parties. The mediation of the Dispute will be
+administered by one (1) mediator selected and agreed to by the parties. The mediation will be
+held in Raleigh, North Carolina. The mediator’s fees and all other administrative costs and
+expenses related to the mediation will be shared equally by the parties, but each party will be
+responsible for its own legal fees and other costs and expenses related thereto.
+21.
+Construction. The parties have participated mutually in the negotiation and
+drafting of this Agreement. In the event an ambiguity or question of intent or interpretation
+arises, this Agreement will be construed as if drafted mutually by the parties and no presumption
+or burden of proof will arise favoring or disfavoring any party by virtue of the authorship of any
+of the provisions of this Agreement.
+22.
+Severability. If any provision of this Agreement is held invalid or unenforceable
+by any court of competent jurisdiction or mediator, the other provisions of this Agreement will
+remain in full force and effect. Any provision of this Agreement held invalid or unenforceable
+only in part or degree will remain in full force and effect to the extent not held invalid or
+unenforceable. The parties agree to replace such void or unenforceable provision of this
+Agreement with a valid and enforceable provision that will achieve, to the extent possible, the
+economic, business and other purpose of such void or unenforceable provision.
+23.
+Survival. Notwithstanding the termination or expiration of this Agreement, the
+provisions of Sections 2, 3, 6, 8(a), 9(b), 10, 11(c), 12, 13, 14, 16, 18, 19, 20, 21, 22, 23, 24 and
+26 will survive the expiration or termination, as the case may be, of this Agreement.
+24.
+Relationship of the Parties. GLS is an independent contractor of Client and not
+an employee, franchisee, agent, partner or joint venture of Client. Neither party has the authority
+to bind the other party without the express written authorization of the other party. Nothing
+herein may be construed so as to create an employer-employee, franchisor-franchisee, agency,
+partnership, or joint venture relationship between the parties hereto.
+25.
+
+Assignment; Subcontracting.
+
+(a)
+Neither this Agreement nor the Services or SOWs hereunder may be
+assigned by either of the parties or by operation of law without the prior written consent of the
+other party.
+(b)
+Notwithstanding the provisions of Section 25(a), GLS may, in its sole
+discretion and without Client’s consent or approval, subcontract or otherwise delegate, in whole
+or in part, its obligations or the performance of the Services under this Agreement to one or more
+of its affiliates or subcontractors; provided, that GLS (i) will notify Client as to (1) the extent it
+so subcontracts or otherwise delegates its obligations under this Agreement and (2) the identity
+of the relevant affiliate(s) or subcontractor(s), and (ii) will remain responsible for the failure of
+such affiliate(s) or subcontractor(s) to perform such Services in accordance with the provisions
+of this Agreement.
+
+13
+
+26.
+Successors; Assigns. The terms and conditions of this Agreement shall inure to
+the benefit of and be binding upon the respective executors, administrators, heirs, successors and
+assigns permitted under this Agreement. Except as expressly provided herein, nothing in this
+Agreement, express or implied, is intended to confer upon any party, other than the parties
+hereto, any rights or remedies under or by reason of this Agreement.
+27.
+Additional Documents. Each of the parties hereto agrees to execute such other
+documents as may be reasonably necessary to effectuate the purposes of this Agreement.
+28.
+Headings. The headings contained in this Agreement are for reference purposes
+only and will not affect the meaning or interpretation of this Agreement.
+29.
+Counterparts. This Agreement and any SOW hereunder may be executed in one
+or more counterparts, each of which will be deemed an original and all of which, when taken
+together, will constitute one and the same instrument.
+[SIGNATURE PAGE FOLLOWS]
+
+14
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement to be
+effective as of the date first written above.
+GLOBAL LABORATORY SERVICES, INC.
+
+By:
+
+____________________________________
+Name:
+Title:
+
+[CLIENT]
+
+By:
+
+____________________________________
+Name:
+Title:
+
+SIGNATURE PAGE TO MASTER SERVICES AGREEMENT
+
+EXHIBIT A
+FORM OF SAMPLE SUBMISSION FORM
+
+See attached.

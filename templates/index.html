@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Name Entity Extraction And Summerization</title>
+	<meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style type="text/css">
+	.main-section{
+	margin:0 auto;
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #fff;
+	box-shadow: 0px 0px 20px #c1c1c1;
+}
+
+</style>
+  
+    <!-- Font Awesome -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/css/mdb.min.css" rel="stylesheet">
+
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <a class="navbar-brand" href="/">NERS</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+      </li>
+
+       <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li>
+
+  </div>
+</nav>
+<br/>
+
+
+<div class="jumbotron" style="background:#0686e4;color:#fff">
+    <div class="container">
+      <h2 class="display-3">Name Entity Extraction And Summerization</h2>
+      <p>Using SpaCy, Genism, NLTK, Sumy by Saurav Gupta</p>
+      <p><a class="btn btn-success waves-effect btn-lg" href="/" role="button">Refresh &raquo;</a></p>
+    </div>
+  </div>
+<br/>
+
+<div class="container" >
+	<form method="POST" action="{{ url_for('extract')}}" enctype=multipart/form-data>
+		<div class="main-section" >
+			<h5>Drag and Drop</h5>
+			<input type="file" name="rawtext" class="file-upload" required="true" >
+		</div>
+			<br/>
+        <button type="submit" class="btn btn-info"><i class="fa fa-database"></i> Submit</button>
+	</form>
+</div>
+<br>
+<div class="container">
+  <h2>Summary</h2>
+  <br>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs nav-fill" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link active" data-toggle="tab" href="#h">SpaCy</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#m1">Genism</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#m2">NLTK</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#m3">Sumy</a>
+    </li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div id="h" class="container tab-pane active"><br>
+      <h3>Spacy Summarization</h3>
+      <p> {{fs_spacy}} </p>
+    </div>
+    <div id="m1" class="container tab-pane fade"><br>
+      <h3>Genism Summarization</h3>
+      <p> {{fs_gensim}} </p>
+    </div>
+    <div id="m2" class="container tab-pane fade"><br>
+      <h3>NLTK Summarization</h3>
+      <p> {{fs_nltk}} </p>
+    </div>
+    <div id="m3" class="container tab-pane fade"><br>
+      <h3>Sumy Summarization</h3>
+      <p> {{fs_sumy}} </p>
+    </div>
+  </div>
+</div>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+<div class="container">
+  <h2>Entity Type Summary</h2>
+  <br>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs nav-fill" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link active" data-toggle="tab" href="#home">Organization</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu1">Location</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu2">Date</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" data-toggle="tab" href="#menu3">Person</a>
+    </li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div id="home" class="container tab-pane active"><br>
+      <h3>Oranization Names</h3>
+      <p> {{result_org}} </p>
+    </div>
+    <div id="menu1" class="container tab-pane fade"><br>
+      <h3>Locations</h3>
+      <p> {{result_places}} </p>
+    </div>
+    <div id="menu2" class="container tab-pane fade"><br>
+      <h3>Dates</h3>
+      <p> {{result_date}} </p>
+    </div>
+    <div id="menu3" class="container tab-pane fade"><br>
+      <h3>Person Names</h3>
+      <p> {{result_name}} </p>
+    </div>
+  </div>
+</div>
+<br>
+<br>
+
+
+<!-- JQuery -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.3/js/mdb.min.js"></script>
+
+</body>
+</html>
+
+</body>
+</html>

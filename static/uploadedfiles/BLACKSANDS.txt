@@ -1,0 +1,369 @@
+MASTER SERVICE AGREEMENT
+day of
+THIS MASTER SERVICE AGREEMENT (the “Agreement”), is entered into the 14th day of May, 2020
+by and between BLACKSANDS PACIFIC ENERGY CORP a Delaware Corporation
+(the “COMPANY”), whose address is 11601 Wilshire Boulevard, Suite 500, Los Angeles, CA 90025
+and Infosys, whose address is 9-11 Gachibowli, Hyderabad pin 500001  ("Vendor” or Contractor). Vendor/ Contractor and Company may
+be referred to individually as a “Party” and collectively as the “Parties.”
+
+RECITALS
+WHEREAS, the Company is engaged in the business of acquiring, developing, drilling, operating,
+servicing and maintaining oil and gas wells and properties and producing oil and gas; and in the
+course of such operations regularly and customarily enters into contracts with independent
+Consultants, Vendors, and Contractors for the performance of various services relating thereto; and
+WHEREAS, Consultants, Vendors and Contractors provides such services either with its own
+employees and/or through consultants fully experienced and recognized as skilled in the performing
+the Services (as defined below), and desires to act as an independent Consultant, Vendor or
+Contractor for the Company;
+NOW, THEREFORE, the Parties agree as follows:
+1. SERVICES. This Agreement shall control and govern all work and services performed by
+Consultants/Vendor/Contractor for the Company under written or oral work orders or
+agreements. This Contract does not obligate to order work from Consultant, nor does it
+obligate Consultant to accept such orders, but this instrument together with any written or oral
+work order or agreement shall control and govern all work, services and related activities
+agreed to be done by Consultants/Vendor/Contractor and shall define the rights, liabilities,
+and obligations of Company and Consultants/Vendor/Contractor during the term hereof.
+Consultants/Vendor/Contractor will perform the Services in accordance with either rate set
+forth in Exhibit “A” or specially agreed to rates, or on a lump sum basis, as agreed to in writing
+by the Parties for a specific Order.
+2. FEES AND PAYMENT TERMS. The prices, rates, or amounts to be paid by Company,
+including labor rates, shall be those specified on a company Rate Sheet, or those agreed at
+the time the Work is ordered, or those specified on the written Work Order or those otherwise
+agreed to in writing and made part of this Agreement. Unless otherwise specified and agreed
+to in a written work order, all work performed under this agreement shall be on time.
+Consultant/Vendor/Contractor shall invoice Company following the 15th day of the month
+and/or the last day of the month. Company shall pay Consultants/Vendor/Contractor invoice
+within 30 days of receipt. If a deficiency, error or dispute cannot be settled within thirty (30)
+days from Company’s receipt of the invoice, The Company shall have the right to withhold
+any disputed amount for and additional thirty (30) days, but the company shall pay the
+undisputed amount within the thirty (30) day period. Disputed portions of invoices will
+a. be resolved with the parties and paid when dispute is resolved.
+b. The Company will not accrue interest or fees during this additional thirty (30) day
+period.
+BSPG MSA
+April 2014
+
+3 of 17
+
+3. TAXES. With the exception of sales taxes, which shall be paid by Company. Consultants /
+Vendor / Contractor agrees to pay all taxes, licenses, fees and penalties levied or assessed
+on Consultants/Vendor/Contractors in connection with or incident to the performance of this
+Agreement by any governmental agency, and shall also pay all unemployment compensation
+insurance, old age benefits, social security or any other taxes upon the wages on Consultants
+/ Vendor / Contractor, its agents, employees and representatives.
+4. TERM OF AGREEMENT / TERMINATION. This Agreement will commence on the date set
+forth above, and will remain in full force and effect continuously thereafter until either party
+terminates this Agreement by giving the other Party a minimum of thirty (30) days written
+notice.
+5. CONFIDENTIALITY. Confidential Information means technical, economic, financial, pricing,
+marketing, leasing, acquisition or other information of the Company that has not been
+published or is not otherwise available to members of the public.
+Consultants/Vendor/Contractors agree to hold as confidential and to not disclose to others
+Confidential Information obtained from Company. Consultants/Vendor/Contractors agree not
+to use Confidential Information to compete with Company, or for any other purpose outside
+the scope of services performed under this agreement. Confidential Information does not
+include information that (i.) Is public knowledge.
+6. WAIVER OF CONSEQUENTIAL DAMAGES. Notwithstanding any other terms in this
+Agreement to the contrary, neither party, nor their parent, affiliated or subsidiary companies,
+nor the officers, directors, agents, employees of any of the foregoing, shall be liable to the
+other in any action or claim for incidental, indirect, special, collateral, consequential,
+exemplary or punitive damages arising out of or related to the Services, including without
+limitation, loss of profits, loss of opportunity, loss of production, or loss of use. Any protection
+or limitation against liability for any losses or damages afforded any individual or entity by this
+Agreement shall apply whether the action in which recovery of damages is sought is based
+upon contract, tort (including, to the greatest extent permitted by law, the sole, concurrent or
+other negligence, whether active or passive, and strict liability of any protected individual or
+entity), statute or otherwise. To the extent permitted by law, any statutory remedies
+inconsistent with these terms are waived.
+7. INSURANCE. Each party shall carry and maintain in full force and effect during the
+performance of services under this Agreement the following insurance coverage’s and
+minimum limits:
+a) Comprehensive / Commercial General Liability Insurance covering operations hereunder
+in an amount of $5,000,000, Combined Single Limit, covering Death, Bodily Injury and
+Property Damage including Completed Operations Liability, Products Liability, and
+Contractual
+Liability coverage for the indemnity and hold harmless provisions in this Agreement and as it
+may be amended from time to time.
+b) Comprehensive Automobile Liability Insurance covering operations hereunder in an
+amount of $1,000,000, Combined Single Limit, covering Death, Bodily Injury and Property
+Damage.
+BSPG MSA
+April 2014
+
+4 of 17
+
+c) Worker’s Compensation and Employers Liability Insurance including Occupational
+Disease, and providing full coverage under all applicable laws of all applicable jurisdictions
+including Maritime Employer’s Liability, Jones Act, Death on the High Seas Act, Federal
+Longshore and Harbor Workers Act, Outer Continental Shelf Lands Act and endorsed to
+include Liability In Rem shall be treated as a claim against the employer and to include
+coverage for liability in respect of Transportation, Wages, Maintenance and Cure and General
+Maritime Law and any other laws applicable to Maritime Employment. Coverage shall be for
+all Operations contemplated in this Contract. Such Policies shall either be in statutory
+amounts or in amount of not less than $1,000,000.
+The General Liability and Automobile Liability policies required under this Agreement shall
+name Company as an additional insured with respect to work performed under this
+Agreement. Consultants/Vendor/Contractors shall provide Company with certificate(s) of
+insurance, as evidence of the coverage’s required. Before any work can be done.
+Each Party shall deliver certificates of insurance to the other Party herein Exhibit “B” in
+standard ACORD form, prior upon execution of this Agreement to verify the required policies
+are in full force and effect. Each insuring Party shall include the other Party and its Group as
+an additional insured and obtain from its insurers a waiver of subrogation with respect to the
+obligations the insuring Party expressly assumes under this Agreement.
+8. INDEMNITY.
+“Company Group” means individually, and in any combination, Company, its clients or
+customers, if any, its and their joint owners and venturers, if any, its and their other
+consultants and contractors of any tier, and its and their directors, agents, representatives,
+employees and insurers.
+“Consultant Group” means individually, and in any combination, Consultant, its joint owners
+and ventures, if any, its and their other consultants and contractors of any tier, and its and
+their directors, agents, representatives, employees and insurers.
+a) Consultants/Vendor/Contractors agrees to defend, indemnify, save and hold harmless the
+Company Group, from and against any and all causes of action, whether in law or equity,
+including reasonable attorney’s fees, costs, and expenses for (i) damage to or destruction of
+property owned, rented or leased by the Consultant Group; and/or (ii) personal injury to or
+death of any member of the Consultant Group, and/or (iii) pollution or contamination
+(including, but not limited to, property damage, control, removal, restoration and cleanup of
+all pollution or contamination) which originates from Consultant Group, arising out of the
+performance of this Agreement hereunder whether or not caused by the negligence, strict
+liability, or breach of contract by any member of the Company Group, excluding however any
+such liability caused by the willful misconduct of the Company Group.
+b) Consultants/Vendor/Contractors further agrees to defend, indemnify, save and hold Company
+Group harmless from any fines, penalties or similar assessment arising out of or connected
+with any failure to comply with or violation of any laws, standards, regulations and orders by
+Consultants/Vendor/Contractors in connection with the Services provided by
+Consultants/Vendor/Contractors to Company.
+BSPG MSA
+April 2014
+
+5 of 17
+
+Consultants/Vendor/Contractors, Notwithstanding any provision to the contrary elsewhere in
+the Agreement, Consultants/Vendor/Contractors shall save, indemnify, defend and hold
+harmless Company Group from Consultant Group’s own Consequential Loss and Company
+shall save, indemnify, defend and hold harmless Consultant Group from Company Group’s own
+Consequential Loss.
+“Consequential Loss” means indirect losses and/or loss of production, loss of product, loss of
+use and loss of revenue, profit or anticipated profit and/or any indirect or consequential loss
+under applicable law, arising from or related to the performance of the Agreement and whether
+or not any such losses were foreseeable at the time of entering into the Agreement, and
+regardless of the actual or alleged fault of anyone, including any indemnified party
+9. DRUG SCREENING.
+The Consultants/Vendor/Contractors agrees. (The Company) intends to help provide a safe
+and drug-free work environment for our clients and our employees. With this goal in mind
+and because of the serious drug abuse problem in today's workplace, we are establishing
+the following policy for existing and future Employees, Consultants/Vendor/Contractors
+The Company explicitly prohibits:
+• The use, possession, solicitation for, or sale of narcotics or other illegal drugs, alcohol,
+
+or prescription medication without a prescription on Company or customer premises or
+while performing an assignment.
+• Being impaired or under the influence of legal or illegal drugs or alcohol away from the
+
+Company or customer premises, if such impairment or influence adversely affects the
+employee's work performance, the safety of the employee or of others, or puts at risk the
+Company's reputation.
+• Possession, use, solicitation for, or sale of legal or illegal drugs or alcohol away from the
+
+Company or customer premises, if such activity or involvement adversely affects the
+employee's work performance, the safety of the employee or of others, or puts at risk the
+Company's reputation.
+• The presence of any detectable amount of prohibited substances in the employee's
+
+system while at work, while on the premises of the company or its customers, or while on
+company business. "Prohibited substances" include illegal drugs, alcohol, or prescription
+drugs not taken in accordance with a prescription given to the employee.
+
+The Company will conduct drug and/or alcohol testing under any of the following
+circumstances:
+• RANDOM TESTING: Consultants/Vendor/Contractors if selected to participate for drug
+and/or alcohol testing at any interval determined by the Company.
+• FOR-CAUSE TESTING: The Company may ask a Consultants/Vendor/Contractors to
+
+submit to a drug and/or alcohol test at any time it feels that the, Consultants / Vendor /
+Contractors may be under the influence of drugs or alcohol, including, but not limited to,
+the following circumstances: evidence of drugs or alcohol on or about the employee's
+person or in the employee's vicinity, unusual conduct on the employee's part that
+BSPG MSA
+April 2014
+
+6 of 17
+
+suggests impairment or influence of drugs or alcohol, negative performance patterns, or
+excessive and unexplained absenteeism or tardiness.
+•
+
+POST-ACCIDENT TESTING: Any employee involved in an on-the-job accident or injury
+under circumstances that suggest possible use or influence of drugs or alcohol in the
+accident or injury event may be asked to submit to a drug and/or alcohol test. "Involved
+in an on-the-job accident or injury" means not only the one who was or could have been
+injured, but also any employee who potentially contributed to the accident or injury event
+in any way.
+The Consultants/Vendor/Contractors agree they will have a drug and alcohol policy in
+place and in effect in order to Conduct Business with the Company.
+Consultants/Vendor/Contractors agree to Provide the Company Monthly Summaries of
+the personal that was tested for that month at the End of the each Calendar month
+Failure to do so will Terminate this Master service Agreement And cannot be
+resubmitted for a Minimum of Ninety (90) days.
+If an employee is tested for drugs or alcohol outside of the employment context and the
+results indicate a violation of this policy, or if a Consultants/Vendor/Contractors or
+employee refuses a request to submit to testing under this policy, the employee may be
+subject to appropriate disciplinary action, up to and possibly including discharge from
+employment and termination of the Master Service agreement.
+
+10. SAFTEY/ SAFTEY PLANS AND POLICY
+At BLACKSANDS PACIFIC GROUP (BSPG), we care about the safety; health and wellbeing
+of our Employees, Consultants, Vendors, and Contractors We value the contributions our
+employees make toward our success. We support local community interests, and value
+honesty, integrity, and teamwork.
+We Value Our Employees
+Our business operates with a goal of zero damage to people, property and product.
+It is our policy to provide safe working conditions. At BSPG, everyone shares equally in the
+responsibility of identifying hazards, following safety rules and operating practices. All jobs
+and tasks must be performed in a safe manner, as safety is crucial to the quality of our
+people.
+
+SAFTEY POLICY
+THE COMPANY: No phase of the operation is considered more important than accident
+prevention. It is our policy to provide and maintain safe working conditions and to follow
+operating practices that will safeguard all Employees, Consultants, Vendors and Contractors
+No job will be considered properly completed unless it is performed in a safe manner. The
+Company shall provide the Consultants/Vendor/Contractors with a Health and Safety
+Guideline that the Consultants/Vendors/Contractors agree to follow. Not following the
+company’s Health and Safety Policy will cause Immediate Termination of the Master Service
+Agreement.
+
+BSPG MSA
+April 2014
+
+7 of 17
+
+THE CONSULTANTS, VENDORS, and CONTRACTORS: No phase of the operation is
+considered more important than accident prevention. It is our policy to provide and maintain
+safe working Conditions and to follow operating practices that will safeguard all Employees,
+Consultants., Vendors and Contractors No job will be considered properly completed unless it
+is performed in a safe manner. The Consultants/Vendor/Contractors shall provide the
+company with a Health and Safety plan that meets the satisfaction of the Company.
+Consultants/Vendors/Contractors agree not providing the company a Health and Safety policy
+will not allow the Master Service Agreement to be approved
+11. ENTIRE AGREEMENT/MODIFICATIONS. This is the entire agreement between Company
+and Consultants/Vendor/Contractors. All oral agreements, representations, and
+understandings are merged into this Agreement and this Agreement embodies the entire
+understanding of the Company and Consultants/Vendor/Contractors concerning the subject
+matter herein. No changes, amendments, or modifications of any of the terms or conditions of
+this Agreement shall be valid unless reduced to a writing referencing this Agreement and
+signed by authorized representatives of both Parties.
+12. GOVERNING LAW. This Agreement is to be considered as having been executed in the
+State of California and whenever the work or services contemplated by this Agreement are
+conducted in, on or above the navigable or territorial waters of the United States or its Outer
+Continental Shelf, the law governing this Agreement shall be the General Maritime Law of the
+United States. Whenever the work or services contemplated by this Agreement are conducted
+on land, or are deemed to be subject to state and not maritime law, the parties agree that
+California law will govern this Agreement.
+13. ADDITIONAL TERMS AND CONDITIONS.
+
+BSPG MSA
+April 2014
+
+8 of 17
+
+DATED, EXECUTED and EFFECTIVE on and as of the date first written above.
+
+Consultants/Vendor/Contractor
+
+Blacksands Pacific Energy Corp.
+11601 Wilshire Boulevard, Suite 500
+Los Angeles, CA 90025
+
+By: ________________________________
+
+By: ________________________________
+
+___________________________________
+(Signature)
+
+___________________________________
+(Signature)
+
+________________________________
+(Printed Name)
+
+___________________________________
+(Printed Name)
+
+________________________________
+(Title/Position)
+
+SENIOR VP OF OPERATIONS
+(Title/Position)
+By: _________________________________
+(Signature)
+____________________________________
+(Printed Name)
+SENIOR VP. HEALTH & SAFTEY
+(Title/Position)
+
+BSPG MSA
+April 2014
+
+9 of 17
+
+EMPLOYEE AGREEMENT AND CONSENT TO
+DRUG AND/OR ALCOHOL TESTING
+I hereby agree, upon a request made under the drug/alcohol testing policy of BLACKSANDS PACIFIC GROUP
+(the Company), to submit to a drug or alcohol test and to furnish a sample of my urine, breathe, and/or blood for
+analysis. I understand and agree that if I at any time refuse to submit to a drug or alcohol test under company
+policy, or if I otherwise fail to cooperate with the testing procedures, I will be subject to immediate termination. I
+further authorize and give full permission to have the Company and/or its company physician send the specimen
+or specimens so collected to a laboratory for a screening test for the presence of any prohibited substances under
+the policy, and for the laboratory or other testing facility to release any and all documentation relating to such test
+to the Company and/or to any governmental entity involved in a legal proceeding or investigation connected with
+the test. Finally, I authorize the Company to disclose any documentation relating to such test to any governmental
+entity involved in a legal proceeding or investigation connected with the test.
+I understand that only duly-authorized Company officers, employees, and agents will have access to information
+furnished or obtained in connection with the test; that they will maintain and protect the confidentiality of such
+information to the greatest extent possible; and that they will share such information only to the extent necessary
+to make employment decisions and to respond to inquiries or notices from government entities.
+I will hold harmless the Company, its company physician, and any testing laboratory the Company might use,
+meaning that I will not sue or hold responsible such parties for any alleged harm to me that might result from such
+testing, including loss of employment or any other kind of adverse job action that might arise as a result of the drug
+or alcohol test, even if a Company or laboratory representative makes an error in the administration or analysis of
+the test or the reporting of the results. I will further hold harmless the Company, its company physician, and any
+testing laboratory the Company might use for any alleged harm to me that might result from the release or use of
+information or documentation relating to the drug or alcohol test, as long as the release or use of the information is
+within the scope of this policy and the procedures as explained in the paragraph above.
+This policy and authorization have been explained to me in a language I understand, and I have been told that if I
+have any questions about the test or the policy, they will be answered.
+I UNDERSTAND THAT THE COMPANY WILL REQUIRE A DRUG SCREEN AND/OR ALCOHOL TEST UNDER
+THIS POLICY WHENEVER I AM INVOLVED IN AN ON-THE-JOB ACCIDENT OR INJURY UNDER
+CIRCUMSTANCES THAT SUGGEST POSSIBLE INVOLVEMENT OR INFLUENCE OF DRUGS OR ALCOHOL
+IN THE ACCIDENT OR INJURY EVENT, AND I AGREE TO SUBMIT TO ANY SUCH TEST.
+
+__________________________________ __________________
+Signature of Employee
+
+Date
+
+__________________________________ __________________
+Company Representative
+
+BSPG MSA
+April 2014
+
+Date
+
+10 of 17
+
+EXHIBIT “A”
+(PLEASE ATTACH RATE SHEET TO THIS PAGE)
+
+BSPG MSA
+April 2014
+
+11 of 17
+
+EXHIBIT “B”
+(PLEASE ATTACH INSURANCE DOCUMENTS TO THIS PAGE)
+
+BSPG MSA
+April 2014
